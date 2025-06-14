@@ -28,8 +28,12 @@ I’m the developer of AirCue, a next-generation spacer that improves medication
 My background in undergrad focused heavily on aerospace applications. I’ve conducted research involving rocket nozzle optimization and external aerodynamic simulations.  
 > Tools used include ANSYS Fluent, MATLAB, and a range of CAD platforms to study flow characteristics and structural performance.
 
+---
+
 ## 🌱 I’m Currently Learning
 I’m currently exploring ways to make technical data more engaging and accessible through visual storytelling. This includes using tools like ggplot2, plotly, and Quarto in R for clearer communication of simulation and test results.
+
+---
 
 ## 🤔 I’m Looking For Help With
 I am currently needing help validating aerosol based drug delivery and training sensors using BME AI-Studio.
